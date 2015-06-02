@@ -13,4 +13,4 @@ EXPOSE 5601
 
 ADD files/start.sh /start.sh
 
-ENTRYPOINT ['/start.sh']
+ENTRYPOINT ["/start.sh"]
